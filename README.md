@@ -1,3 +1,3 @@
-# Rock Catalogue
+# Material-UI Dashboard in React
 
-A front-end dashboard that allows users to add rock samples and their associated data files. It also has a Project pane that can be used to develop a markdown file that presents results to others.
+A front-end dashboard with better code managment of components to easier editing and basing a project off of
